@@ -1,6 +1,7 @@
 {
   "name": "examinationsuppgift-react",
   "version": "0.1.0",
+  "homepage": "https://darkshiira.github.io/examinationsuppgift-react",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -19,6 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+  "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "server": "json-server --watch ./data/db.json --port 3001",
     "build": "react-scripts build",
@@ -43,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
