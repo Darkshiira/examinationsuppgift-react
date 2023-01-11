@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/examinationsuppgift-react/static/css/main.83c3210a.css",
+    "main.js": "/examinationsuppgift-react/static/js/main.691d8dba.js",
+    "static/js/787.4ce38996.chunk.js": "/examinationsuppgift-react/static/js/787.4ce38996.chunk.js",
+    "index.html": "/examinationsuppgift-react/index.html",
+    "main.83c3210a.css.map": "/examinationsuppgift-react/static/css/main.83c3210a.css.map",
+    "main.691d8dba.js.map": "/examinationsuppgift-react/static/js/main.691d8dba.js.map",
+    "787.4ce38996.chunk.js.map": "/examinationsuppgift-react/static/js/787.4ce38996.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c3210a.css",
+    "static/js/main.691d8dba.js"
+  ]
+}
